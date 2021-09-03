@@ -8,3 +8,5 @@ Esse site tem como objetivo simular uma lista de compras  o usuario irá colocar
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="90" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="90" height="25" />
   </div>
+  
+  ## Veja o resultado aqui **https://71m-m414.github.io/Minhas_compras-/**
